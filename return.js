@@ -20,7 +20,7 @@ function totalDeProductos(producto1, producto2, producto3){
 }
 
 function cobrar(){
-    console.log("le debe cobrar al cliente", totalDeProductos(10,15,10))
+    return totalDeProductos(10,15,10))
 
 }
 cobrar()
